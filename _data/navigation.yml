@@ -2,12 +2,14 @@
 main:
   # - title: "Home"
   #   url: /home/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Blogs"
     url: /blogs/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "MISC"
     url: /misc/
