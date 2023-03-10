@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Li Nanbo"
-description              : &description "PhD xxxxxxxxxx"
+description              : &description ""
 url                      : https://NanboLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NanboLi/NanboLi.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Edinburgh, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wa2S8OEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=wa2S8OEAAAAJ"
   email            : "linanbo2008@gmail.com"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
