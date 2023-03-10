@@ -13,7 +13,7 @@ A PDF version of my CV is downloadable [HERE](http://nanboli.github.io/files/nan
 
 Education
 ======
-* Ph.D in Machine Learning and Computer Vision, University of Edinburgh, 2022
+* Ph.D. in Machine Learning and Computer Vision, University of Edinburgh, 2022
 * M.Sc. in Artificial Intelligence (with Distinction), University of Edinburgh, 2017
 * B.Eng. in Automation Engineering (Outstanding Engineer), Wuhan University of Technology, 2016
 
