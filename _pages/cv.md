@@ -7,26 +7,31 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %}
+{% include base_path %}
+
+A PDF version of my CV is downloadable [HERE](http://nanboli.github.io/files/nanbo_li_cv.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Machine Learning and Computer Vision, University of Edinburgh, 2022
+* M.Sc. in Artificial Intelligence (with Distinction), University of Edinburgh, 2017
+* B.Eng. in Automation Engineering (Outstanding Engineer), Wuhan University of Technology, 2016
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern
+  * NEC Laboratories America. Inc
+  * San Jose, CA, USA
+  * June-Aug, 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern
+  * Meta (Facebook) Reality Labs
+  * Zurich, Switzerland
+  * Sep-Dec, 2021
 
+
+<!--
 Skills
 ======
 * Skill 1
