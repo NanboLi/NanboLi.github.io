@@ -18,4 +18,6 @@ My research interests lie in ... (will come back soon in a good mood, patience..
 
 News
 ------
-(will update you and myself soon...)
+- **<span style="color:red">[Attention]</span>** I am looking for a post-doc researcher/research scientist/research intern position.
+
+(will update my outdated news soon...)
