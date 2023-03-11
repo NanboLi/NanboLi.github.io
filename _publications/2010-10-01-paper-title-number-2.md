@@ -7,7 +7,6 @@ excerpt: 'We propose an uncertainty-driven approach to address classic point set
 date: 2018-09-05
 venue: '2018 International Conference on 3D Vision (3DV)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8491030'
-# citation: 'Li Nanbo, You. (2010). &quot;DUGMA.&quot; <i>3DV 2018</i>.'
 ---
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8491030)
 
