@@ -12,7 +12,7 @@ I obtained my PhD from the University of Edinburgh in 2022, under the supervisio
 
 
 Research
--------
+------
 My research interests lie in ... (will come back to this soon in a good mood, patience...).
 
 
