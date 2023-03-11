@@ -10,12 +10,15 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-    body {
-      background-image: url('{{ site.baseurl }}/images/bg_orchid.jpg');
-    }
+      body {
+        background-image: url('{{ site.baseurl }}/images/bg_orchid.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover; 
+      }
     </style>
   </head>
-
+  
   <body>
 
     {% include browser-upgrade.html %}
