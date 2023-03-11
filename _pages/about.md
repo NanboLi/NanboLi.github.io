@@ -18,7 +18,7 @@ My research interests lie in generative models and causal representation learnin
 
 News
 ------
-<!-- - **<span style="color:red">[Attention]</span>** I am looking for a post-doc researcher/research scientist/research intern position. -->
-- [:top:] I am looking for a **post-doc researcher/research scientist/research intern** position.
+- **<span style="color:red">[Attention]</span>** I am looking for a **post-doc researcher/research scientist/research intern** position.
+<!-- - [:top:] I am looking for a **post-doc researcher/research scientist/research intern** position. -->
 
-(will update my outdated news here...)
+(will update you about my outdated news...)

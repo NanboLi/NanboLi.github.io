@@ -14,6 +14,6 @@ You can also check my publications on [my Google Scholar profile](https://schola
 {% include base_path %}
 
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
