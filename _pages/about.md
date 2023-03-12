@@ -21,4 +21,4 @@ News
 - :top: **<span style="color:red">[Attention]</span>** I am looking for a **post-doc researcher/research scientist/research intern** position.
 <!-- - [:top:] I am looking for a **post-doc researcher/research scientist/research intern** position. -->
 
-*(will update you about my outdated news...)*
+<!-- *(will update you about my outdated news...)* -->
