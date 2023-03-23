@@ -18,7 +18,7 @@ My research interests lie in generative models and causal representation learnin
 
 News
 ------
-<span style="color:red"> :top: **Job** </span> I am looking for a *post-doc/research scientist/research intern* position.<br/>
+<span style="color:red"> :top: [**Job**] </span> I am looking for a **post-doc**/**research scientist**/**research intern** position.<br/>
 <!-- <span style="color:red"> :top: **Research** </span> New preprint: [Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE](https://arxiv.org/abs/2303.05323)<br/>
 <span style="color:red"> :top: **Research** </span> Our paper: [Duplicate Latent Representation Suppression for Multi-object Variational Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8491030) was accepted at BMVC 2021!<br/> -->
 <!-- <span style="color:red"> News </span> **Talk** Presented at the MIT CSAIL department on [Fast skill acquisition with goal conditioned RL](https://www.youtube.com/watch?v=QRI4KkFfsr0&ab_channel=ImprobableAI), hosted by Pulkit Agrawal<br/>
