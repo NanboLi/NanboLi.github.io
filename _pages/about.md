@@ -26,7 +26,7 @@ News
 <span style="color:red"> News </span>  **Workshop ICRA 2021 live!** Our workshop on Learning-To-Learn for Robotics aims to provide an informative overview of the existing challenges in L2L for Robotics. Consider submitting (deadline 15th May) [Website](https://sites.google.com/view/learn-to-learn-robotics/). <br/>
 <span style="color:red"> News </span>  **Workshop ICLR 2021 live!** Our workshop on Learning-To-Learn brings together neuroscience and machine learning experts to push the boundaries of the field. [Website](https://sites.google.com/view/learning-2-learn). <br/>
 <span style="color:red"> News </span> **Research** Our paper Model-Based Inverse Reinforcement Learning from Visual Demonstration was accepted at CoRL 2020! -->
-<!-- {: .notice} -->
+{: .notice}
 
 
 <!-- 
