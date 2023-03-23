@@ -18,7 +18,7 @@ My research interests lie in generative models and causal representation learnin
 
 News
 ------
-<span style="color:red"> :top: </span> **[Job]** I am looking for a **post-doc researcher/research scientist/research intern** position.<br/>
+<span style="color:red"> :top: **[Job]** </span> I am looking for a **post-doc researcher/research scientist/research intern** position.<br/>
 <!-- <span style="color:red"> News </span> **Talk** Presented at the MIT CSAIL department on [Fast skill acquisition with goal conditioned RL](https://www.youtube.com/watch?v=QRI4KkFfsr0&ab_channel=ImprobableAI), hosted by Pulkit Agrawal<br/>
 <span style="color:red"> News </span> **Research** Our paper [Residual Learning from Demonstration](https://arxiv.org/pdf/2008.07682.pdf) was accepted at RA:L and ICRA 2022!<br/>
 <span style="color:red"> News </span> **Research** Our paper [Hindsight Goal selection for Long-horizon Dexterous Manipulation](https://arxiv.org/pdf/2112.00597.pdf) was accepted at ICLR 2022!<br/>
