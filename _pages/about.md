@@ -13,7 +13,7 @@ I obtained my PhD from the University of Edinburgh in 2022, under the supervisio
 
 Research
 ------
-My research interests lie in generative models and causal representation learning. In particular, during my PhD studies, I focused on structured representation learning using generative models. This involves investigating methods to disentangle spurious correlations within data to identify modular structures that could facilitate interventions. In general, I am passionate about building (structured) world models, advancing science with AI, and dreaming about creating artificial general intelligence (AGI).
+My research interests lie in generative models and causal representation learning. In particular, during my PhD studies, I focused on structured representation learning using generative models. This involves investigating methods to disentangle spurious correlations and identify modular structures within data to facilitate interventional reasoning. In general, I am passionate about building (structured) world models, advancing science (esp. healthcare, physics, and finance) with AI, and dreaming about creating artificial general intelligence (AGI).
 
 
 News
