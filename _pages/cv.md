@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV is downloadable [HERE](http://nanboli.github.io/files/nanbo_li_cv.pdf).
+A PDF version of my CV is downloadable [HERE](http://nanboli.github.io/files/nanbo_li_resume.pdf).
 
 Education
 ======
