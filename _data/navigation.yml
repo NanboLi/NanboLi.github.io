@@ -5,14 +5,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blogs"
-    url: /blogs/
+  # - title: "Blogs"
+  #   url: /blogs/
 
-  - title: "CV"
+  - title: "Bio"
     url: /cv/
 
-  - title: "MISC"
-    url: /misc/
+  # - title: "MISC"
+  #   url: /misc/
 
   # - title: "Publications"
   #   url: /publications/

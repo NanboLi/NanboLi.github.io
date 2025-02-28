@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Li_Nanbo
+  username               : &nbl_ai
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Li Nanbo <br />李南伯"
-  avatar           : "nanbo_profile.png"
-  bio              : "PhD, University of Edinburgh"
-  location         : "Edinburgh, United Kingdom"
+  avatar           : "alula.JPG"
+  bio              : "Postdoc Fellow, CoE for Generative AI, KAUST"
+  location         : "Saudi Arabia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wa2S8OEAAAAJ"
   email            : "linanbo2008@gmail.com"
-  researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Li-Nanbo"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Li_Nanbo"
+  twitter          : "nbl_ai"
   vine             :
   weibo            :
   xing             :
