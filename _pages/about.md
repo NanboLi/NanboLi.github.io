@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-doctoral Fellow with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) at the *KAUST Center of Excellence For Generative AI*. I obtained my PhD from the *University of Edinburgh*, under the supervision of [Prof. Robert Fisher](https://homepages.inf.ed.ac.uk/rbf/) and [Prof. Chris Williams](https://homepages.inf.ed.ac.uk/ckiw/). I am working on machine learning, with a particular focus on world models.
+I am a Post-doctoral Fellow with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) at the *KAUST Center of Excellence for Generative AI*. I obtained my PhD from the *School of Informatics, University of Edinburgh*, under the supervision of [Prof. Robert Fisher](https://homepages.inf.ed.ac.uk/rbf/) and [Prof. Chris Williams](https://homepages.inf.ed.ac.uk/ckiw/). I am working on machine learning, with a particular focus on world models.
 
 
 <!-- Research
@@ -20,9 +20,11 @@ My research interests lie in machine learning, causality, and computer vision, p
 
 News
 ------
-* :top: \[*2024.04*\] - <span style="color:red"> **Announcement** </span>: After an one-year (2023-2024) career break, I am excited to get back to AI research!<br/>
-* \[*2025.02*\] - <span style="color:red"> **Research** </span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025**! <br/>
-* \[*2024.04*\] - <span style="color:red"> **Announcement** </span>: I am starting a postdoc at KAUST GenAI CoE, working with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)! <br/>
+* :top: \[*2024.04*\] - <span style="color:red">*Announcement*</span>: After a career break (2023-2024), I'm so excited getting back to AI research!<br/>
+* \[*2025.02*\] - <span style="color:red">*New Paper*</span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025**! <br/>
+* \[*2024.04*\] - <span style="color:red">*New Position*</span>: Starting a postdoc at KAUST GenAI CoE, working with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)! <br/>
+* \[*2023.04*\] - <span style="color:red">*Announcement*</span>: Taking a career break: seeking for the meaning of life! <br/>
+* \[*2022.11*\] - :mortar_board:<span style="color:red">**PhD degree received!**</span> :tada::fireworks: <br/>
 <!-- <span style="color:red"> :top: **Research** </span> New preprint: [Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE](https://arxiv.org/abs/2303.05323)<br/>
 <span style="color:red"> :top: **Research** </span> Our paper: [Duplicate Latent Representation Suppression for Multi-object Variational Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8491030) was accepted at BMVC 2021!<br/> -->
 <!-- <span style="color:red"> News </span> **Talk** Presented at the MIT CSAIL department on [Fast skill acquisition with goal conditioned RL](https://www.youtube.com/watch?v=QRI4KkFfsr0&ab_channel=ImprobableAI), hosted by Pulkit Agrawal<br/>

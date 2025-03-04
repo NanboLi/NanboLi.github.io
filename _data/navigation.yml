@@ -2,14 +2,12 @@
 main:
   # - title: "Home"
   #   url: /home/
-  - title: "Publications"
-    url: /publications/
 
   # - title: "Blogs"
   #   url: /blogs/
 
-  - title: "Bio"
-    url: /cv/
+  # - title: "Bio"
+  #   url: /cv/
 
   # - title: "MISC"
   #   url: /misc/

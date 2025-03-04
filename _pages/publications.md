@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can check [my Google Scholar profile](https://scholar.google.com/citations?user=wa2S8OEAAAAJ) for a comprehensive list of my publications.
+My research focuses on *world models*, *sequence modelling*, and *uncertainty estimation*. I 'm dedicated to discovering and implementing guiding principles that promote model self-improvement---as reflected throughout my work. A selection of my publications are highlighted [below](#selected-works), with a com a comprehensive list available on [my Google Scholar profile](https://scholar.google.com/citations?user=wa2S8OEAAAAJ).
 
 
 ## Selected Works  
