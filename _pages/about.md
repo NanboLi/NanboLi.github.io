@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-doctoral Fellow with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) at the *KAUST Center of Excellence for Generative AI*. I obtained my PhD from the *School of Informatics, University of Edinburgh*, under the supervision of [Prof. Robert Fisher](https://homepages.inf.ed.ac.uk/rbf/) and [Prof. Chris Williams](https://homepages.inf.ed.ac.uk/ckiw/). I am working on machine learning, with a particular focus on world models.
+I am a Post-doctoral Fellow with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) at the *KAUST Center of Excellence for Generative AI*. I obtained my PhD from the *School of Informatics, University of Edinburgh*, under the supervision of [Prof. Robert Fisher](https://homepages.inf.ed.ac.uk/rbf/) and [Prof. Chris Williams](https://homepages.inf.ed.ac.uk/ckiw/). I am working on world models, sequence modelling, and self-improvement.
 
 
 <!-- Research
@@ -20,7 +20,8 @@ My research interests lie in machine learning, causality, and computer vision, p
 
 News
 ------
-* :top: \[*2024.04*\] - <span style="color:red">*Announcement*</span>: After a career break (2023-2024), I'm so excited getting back to AI research!<br/>
+* :top: \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our paper [**Huxley-Gödel Machine**](https://arxiv.org/abs/2510.21614) aacepted at **ICLR 2026** as an <span style="color:magenta">*Oral*</span>!<br/>
+* \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our [**SlotSPE**](https://arxiv.org/abs/2512.01116) paper is accepted at **ICLR 2026** as a Poster! <br/>
 * \[*2025.02*\] - <span style="color:red">*New Paper*</span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025**! <br/>
 * \[*2024.04*\] - <span style="color:red">*New Position*</span>: Starting a postdoc at KAUST GenAI CoE, working with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)! <br/>
 * \[*2023.04*\] - <span style="color:red">*Announcement*</span>: Taking a career break: seeking for the meaning of life! <br/>
