@@ -17,7 +17,7 @@ My research interests lie in machine learning, causality, and computer vision, p
 
 <!-- My research interests lie in generative models and causal representation learning. In particular, during my PhD studies, I focused on structured representation learning using generative models. This involves investigating methods to disentangle spurious correlations and identify modular structures within data to facilitate counterfactual reasoning. In general, I am passionate about building (structured) world models, advancing science (esp. healthcare, physics, and finance) with AI, and dreaming about creating artificial general intelligence (AGI). -->
 
-Google Cloud Research Credits
+
 News
 ------
 * \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our paper [**Huxley-Gödel Machine**](https://arxiv.org/abs/2510.21614) aacepted at **ICLR 2026** as an <span style="color:magenta">*Oral*</span>!<br/>
