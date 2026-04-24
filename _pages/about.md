@@ -20,9 +20,9 @@ My research interests lie in machine learning, causality, and computer vision, p
 
 News
 ------
-* :top: \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our paper [**Huxley-Gödel Machine**](https://arxiv.org/abs/2510.21614) aacepted at **ICLR 2026** as an <span style="color:magenta">*Oral*</span>!<br/>
+* \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our paper [**Huxley-Gödel Machine**](https://arxiv.org/abs/2510.21614) aacepted at **ICLR 2026** as an <span style="color:magenta">*Oral*</span>!<br/>
 * \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our [**SlotSPE**](https://arxiv.org/abs/2512.01116) paper is accepted at **ICLR 2026** as a Poster! <br/>
-* \[*2025.02*\] - <span style="color:red">*New Paper*</span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025**! <br/>
+* \[*2025.02*\] - <span style="color:red">*New Paper*</span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025** as a Poster! <br/>
 * \[*2024.04*\] - <span style="color:red">*New Position*</span>: Starting a postdoc at KAUST GenAI CoE, working with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)! <br/>
 * \[*2023.04*\] - <span style="color:red">*Announcement*</span>: Taking a career break: seeking for the meaning of life! <br/>
 * \[*2022.11*\] - :mortar_board:<span style="color:red">**PhD degree received!**</span> :tada::fireworks: <br/>
