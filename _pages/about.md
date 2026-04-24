@@ -17,11 +17,13 @@ My research interests lie in machine learning, causality, and computer vision, p
 
 <!-- My research interests lie in generative models and causal representation learning. In particular, during my PhD studies, I focused on structured representation learning using generative models. This involves investigating methods to disentangle spurious correlations and identify modular structures within data to facilitate counterfactual reasoning. In general, I am passionate about building (structured) world models, advancing science (esp. healthcare, physics, and finance) with AI, and dreaming about creating artificial general intelligence (AGI). -->
 
-
+Google Cloud Research Credits
 News
 ------
 * \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our paper [**Huxley-Gödel Machine**](https://arxiv.org/abs/2510.21614) aacepted at **ICLR 2026** as an <span style="color:magenta">*Oral*</span>!<br/>
 * \[*2026.01*\] - <span style="color:red">*New Paper*</span>: Our [**SlotSPE**](https://arxiv.org/abs/2512.01116) paper is accepted at **ICLR 2026** as a Poster! <br/>
+* \[*2025.12*\] - <span style="color:red">*Announcement*</span>: Awarded the [*Google Cloud Academic Research Grant*](https://cloud.google.com/edu/researchers?hl=en)! <br/>
+* \[*2025.11*\] - <span style="color:red">*Announcement*</span>: Awarded the [*GenAI CoE & Google Gift Funding*](https://www.kaust.edu.sa/en/news/new-google-collaboration-advances-ai-research-in-saudi-arabia)! <br/>
 * \[*2025.02*\] - <span style="color:red">*New Paper*</span>: Our [**FACTS**](https://arxiv.org/abs/2410.20922) paper is accepted at **ICLR 2025** as a Poster! <br/>
 * \[*2024.04*\] - <span style="color:red">*New Position*</span>: Starting a postdoc at KAUST GenAI CoE, working with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)! <br/>
 * \[*2023.04*\] - <span style="color:red">*Announcement*</span>: Taking a career break: seeking for the meaning of life! <br/>
