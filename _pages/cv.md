@@ -37,7 +37,7 @@ redirect_from:
   <h2 id="awards">Awards & funding</h2>
   <ul class="cv-entries">
     <li><p class="cv-date">2025-2026</p><h3><a href="https://cloud.google.com/edu/researchers">Google Cloud Academic Research Grant</a></h3></li>
-    <li><p class="cv-date">2025-2026</p><h3><a href="https://www.kaust.edu.sa/en/news/new-google-collaboration-advances-ai-research-in-saudi-arabia">GenAI CoE & Google Gift Funding</a></h3></li>
+    <li><p class="cv-date">2025-2026</p><h3><a href="https://www.kaust.edu.sa/en/news/new-google-collaboration-advances-ai-research-in-saudi-arabia">GenAI CoE & Google Gift Funding</a></h3><p>I am the leading applicant.</p></li>
     <li><p class="cv-date">2018-2022</p><h3><a href="https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-programmes-and-centres-doctoral-training/postgraduate-research-funding-opportunities-0">UoE Informatics Graduate School PhD Scholarship</a></h3></li>
   </ul>
 </section>
