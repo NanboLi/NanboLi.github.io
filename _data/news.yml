@@ -1,0 +1,17 @@
+# Dates use the first day of the month for sorting; only month/year is displayed.
+- date: "2026-01-01"
+  text: '[SlotSPE](https://arxiv.org/abs/2512.01116), our work on structural prognostic event modelling, was accepted at **ICLR 2026** as a poster.'
+- date: "2026-01-01"
+  text: 'Our [Huxley-Gödel Machine](https://arxiv.org/abs/2510.21614) paper was accepted at **ICLR 2026** as an **Oral** presentation.'
+- date: "2025-12-01"
+  text: 'Awarded a [Google Cloud Academic Research Grant](https://cloud.google.com/edu/researchers).'
+- date: "2025-11-01"
+  text: 'Awarded [GenAI CoE & Google Gift Funding](https://www.kaust.edu.sa/en/news/new-google-collaboration-advances-ai-research-in-saudi-arabia).'
+- date: "2025-02-01"
+  text: '[FACTS](https://arxiv.org/abs/2410.20922), our factored state-space framework for world modelling, was accepted at **ICLR 2025** as a poster.'
+- date: "2024-04-01"
+  text: 'Started a postdoc at **KAUST GenAI CoE**, working with [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).'
+- date: "2023-04-01"
+  text: 'Took a career break to explore the meaning of life.'
+- date: "2022-11-01"
+  text: 'Received my **PhD** from the University of Edinburgh.'

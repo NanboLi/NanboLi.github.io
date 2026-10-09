@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Li Nanbo"
 title_separator          : "-"
 name                     : &name "Li Nanbo"
-description              : &description ""
+description              : &description "Li Nanbo — world models, sequence modelling, and self-improvement. Postdoctoral Fellow at KAUST."
 url                      : https://NanboLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NanboLi/NanboLi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &nbl_ai
+  username               : "nbl_ai"
 facebook:
   username               :
   app_id                 :
@@ -73,14 +73,14 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Li Nanbo <br />李南伯"
+  name             : "Li Nanbo"
   avatar           : "alula.JPG"
   bio              : "Postdoc Fellow <br />CoE for Generative AI, KAUST"
   location         : "Saudi Arabia"
@@ -123,6 +123,43 @@ include:
   - _pages
   - files
 exclude:
+  - docs
+  - scripts
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Gemfile.lock
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - _posts
+  - _portfolio
+  - _teaching
+  - _talks
+  - assets/css/collapse.css
+  - assets/css/academicons.css
+  - assets/css/academicons.min.css
+  - assets/js
+  - images/manifest.json
+  - images/browserconfig.xml
+  - _pages/.DS_Store
+  - _pages/archive-layout-with-content.md
+  - _pages/blogs.html
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/misc.html
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -176,16 +213,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -223,7 +260,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
       share: true
       comments: true
@@ -255,7 +292,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Riyadh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

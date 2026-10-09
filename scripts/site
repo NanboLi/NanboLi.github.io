@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+# Prefer the installed development Ruby without changing the user's shell profile.
+if [[ -x /opt/homebrew/opt/ruby@3.3/bin/ruby ]]; then
+  export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+fi
+if [[ -f vendor/bootstrap/bin/bundle ]]; then
+  export GEM_HOME="$PWD/vendor/bootstrap"
+  export GEM_PATH="$GEM_HOME"
+fi
+export GEM_SPEC_CACHE="$PWD/vendor/gem-cache"
+export BUNDLE_USER_HOME="$PWD/vendor/bundler"
+if [[ -f vendor/bootstrap/bin/bundle ]]; then
+  bundler=(ruby vendor/bootstrap/bin/bundle _2.4.9_)
+else
+  bundler=(bundle _2.4.9_)
+fi
+case "${1:-serve}" in
+  install) "${bundler[@]}" install ;;
+  build) "${bundler[@]}" exec jekyll build ;;
+  check) "${bundler[@]}" exec ruby scripts/check_site.rb ;;
+  serve) "${bundler[@]}" exec jekyll serve --config _config.yml,_config.dev.yml --host 127.0.0.1 ;;
+  *) echo "Usage: bash scripts/site [install|build|check|serve]" >&2; exit 2 ;;
+esac

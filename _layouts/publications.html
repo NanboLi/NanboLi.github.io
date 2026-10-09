@@ -1,0 +1,31 @@
+---
+layout: single
+---
+
+<p>A complete publication list is available on <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>.</p>
+{% assign publications = site.publications | sort: 'date' | reverse %}
+{% assign current_year = '' %}
+{% for publication in publications %}
+  {% assign year = publication.date | date: '%Y' %}
+  {% if year != current_year %}
+    {% unless forloop.first %}</ol></section>{% endunless %}
+    <section class="publication-year" aria-labelledby="year-{{ year }}">
+      <h2 id="year-{{ year }}">{{ year }}</h2>
+      <ol class="publication-list">
+    {% assign current_year = year %}
+  {% endif %}
+  <li class="publication-item">
+    <article>
+      <h3><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
+      <p class="publication-authors">{{ publication.author_list }}</p>
+      <p class="publication-venue">{{ publication.venue }}{% if publication.award %}<span class="publication-award">{{ publication.award }}</span>{% endif %}</p>
+      {% if publication.summary %}<p class="publication-summary">{{ publication.summary }}</p>{% endif %}
+      {% if publication.equal_contribution %}<p class="contribution-note">† Equal contribution</p>{% endif %}
+      {% include publication-links.html publication=publication %}
+      {% if publication.tags and publication.tags.size > 0 %}
+      <p class="publication-tags" aria-label="Research topics"><span aria-hidden="true">🏷️</span><span>{{ publication.tags | join: ', ' | escape }}</span></p>
+      {% endif %}
+    </article>
+  </li>
+  {% if forloop.last %}</ol></section>{% endif %}
+{% endfor %}

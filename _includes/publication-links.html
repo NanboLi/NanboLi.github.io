@@ -1,0 +1,5 @@
+<ul class="publication-links" aria-label="Resources for {{ include.publication.title | escape }}">
+  {% if include.publication.paperurl %}<li><a href="{{ include.publication.paperurl }}">Paper <span aria-hidden="true">↗</span></a></li>{% endif %}
+  {% if include.publication.codeurl %}<li><a href="{{ include.publication.codeurl }}">Code <span aria-hidden="true">↗</span></a></li>{% endif %}
+  {% if include.publication.projecturl %}<li><a href="{{ include.publication.projecturl }}">Project <span aria-hidden="true">↗</span></a></li>{% endif %}
+</ul>

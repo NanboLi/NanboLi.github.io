@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100" fill="#37352f">
+  <title>李南伯</title>
+  <desc>Original vector lettering inspired by the angular, broad forms of Han clerical script and the Zhang Qian stele.</desc>
+  <!-- 李: 木 above 子; blunt, uneven brush entries and broad terminals. -->
+  <g transform="translate(4 0)">
+    <path d="M43 5l12 2-2 39-10 1 1-32z"/>
+    <path d="M12 20l8-3 54 1 10-3 9 9-6 4-32-2-40 2z"/>
+    <path d="M42 25l9 4C41 41 25 49 8 51l-5-5c18-6 31-14 39-21z"/>
+    <path d="M54 25c12 9 26 15 44 17l-8 10c-16-3-30-14-41-22z"/>
+    <path d="M24 53l7-3 40 1 6-3 8 8-29 13-6-5 17-7-36 3z"/>
+    <path d="M44 62l12 4 1 20-6 10-22-7 1-5 15 2 1-13z"/>
+    <path d="M7 71l8-3 63 1 11-5 9 10-8 5-43-2-38 1z"/>
+  </g>
+  <!-- 南: the upper stem, outer enclosure and internal strokes. -->
+  <g transform="translate(124 0)">
+    <path d="M43 5l13 2-3 25-10 1 2-18z"/>
+    <path d="M9 16l8-3 62 1 9-3 8 9-9 4-41-2-35 2z"/>
+    <path d="M14 31l10 2-1 53-3 8-10-3 3-17z"/>
+    <path d="M19 32l59-1 7-3 9 7-2 47-5 12-21-6 1-5 14 1 1-45-60 1z"/>
+    <path d="M31 42l8-2 7 12-7 4-9-9z"/>
+    <path d="M61 40l11 4-13 13-6-3z"/>
+    <path d="M29 56l43-1 3 6-10 2-33-1z"/>
+    <path d="M47 59l10 1-1 26-3 7-8-3 2-19z"/>
+    <path d="M28 71l36-1 9-2 4 8-48 1z"/>
+  </g>
+  <!-- 伯: person radical and 白. -->
+  <g transform="translate(244 0)">
+    <path d="M26 7l13 5C30 33 21 45 4 54l-4-5C13 35 21 22 26 7z"/>
+    <path d="M20 39l11-3-1 46-3 10-10-3 3-24z"/>
+    <path d="M60 7l14 4-16 19-9-1z"/>
+    <path d="M42 29l11 2-1 58-11 1 1-42z"/>
+    <path d="M49 30l36-1 7-3 9 7-2 52-6 7-9-2 3-52-37 1z"/>
+    <path d="M50 55l39-1-1 8-37 1z"/>
+    <path d="M48 81l41-1 2 9-42-1z"/>
+  </g>
+</svg>

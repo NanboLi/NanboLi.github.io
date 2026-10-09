@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<main id="main" class="home-content shell">
+  <div class="home-introduction">
+    {% include profile.html %}
+    <div class="home-biography">{{ content }}</div>
+  </div>
+  <div class="landscape" aria-hidden="true">
+    <picture>
+      <source media="(max-width: 600px)" srcset="{{ '/images/landscape-book-mobile.jpg' | relative_url }}">
+      <img src="{{ '/images/landscape-book.jpg' | relative_url }}" width="1800" height="600" alt="" fetchpriority="high">
+    </picture>
+  </div>
+  <section class="updates" aria-labelledby="updates-title">
+    <h2 id="updates-title">Recent updates</h2>
+    {% assign updates = site.data.news | sort: 'date' | reverse %}
+    <ul class="news-list">{% for item in updates limit:5 %}{% include news-item.html %}{% endfor %}</ul>
+    {% if updates.size > 5 %}
+    <details class="older-updates">
+      <summary>Earlier updates <span class="details-symbol" aria-hidden="true">+</span></summary>
+      <ul class="news-list">{% for item in updates offset:5 %}{% include news-item.html %}{% endfor %}</ul>
+    </details>
+    {% endif %}
+  </section>
+  <div class="share" aria-label="Share this website">
+    <span class="share__label">Share:</span>
+    <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fnanboli.github.io%2F&amp;text=Li%20Nanbo" target="_blank" rel="noopener noreferrer" aria-label="Share on X (opens a new tab)" title="Share on X"><img src="{{ '/images/brands/x-twitter.svg' | relative_url }}" width="19" height="19" alt=""></a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fnanboli.github.io%2F" target="_blank" rel="noopener noreferrer" aria-label="Share on LinkedIn (opens a new tab)" title="Share on LinkedIn"><img src="{{ '/images/brands/linkedin-in.svg' | relative_url }}" width="20" height="20" alt=""></a>
+    <details class="wechat-share">
+      <summary aria-label="Share on WeChat" title="Share on WeChat"><img src="{{ '/images/brands/weixin.svg' | relative_url }}" width="23" height="23" alt=""></summary>
+      <div class="wechat-share__code">
+        <img src="{{ '/images/share-home.svg' | relative_url }}" width="148" height="148" alt="QR code for https://nanboli.github.io/" loading="lazy">
+        <p>Scan in WeChat to open and share.</p>
+        <a href="https://nanboli.github.io/">nanboli.github.io</a>
+      </div>
+    </details>
+  </div>
+</main>

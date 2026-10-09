@@ -1,0 +1,13 @@
+<ul class="profile__links" aria-label="Contact and research profiles">
+  <li class="email-copy">
+    <button class="email-copy__button" type="button" data-email="{{ site.author.email | escape }}" aria-label="Copy email address" title="Copy {{ site.author.email }}"><img src="{{ '/images/brands/envelope.svg' | relative_url }}" width="20" height="20" alt=""></button>
+    <span class="email-copy__status" role="status" aria-live="polite" aria-atomic="true"></span>
+    <noscript>{{ site.author.email }}</noscript>
+  </li>
+  <li><a href="{{ site.author.googlescholar }}" aria-label="Google Scholar" title="Google Scholar"><img src="{{ '/images/brands/google-scholar.svg' | relative_url }}" width="20" height="20" alt=""></a></li>
+  <li><a href="https://github.com/{{ site.author.github }}" aria-label="GitHub" title="GitHub"><img src="{{ '/images/brands/github.svg' | relative_url }}" width="20" height="20" alt=""></a></li>
+  <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" aria-label="LinkedIn" title="LinkedIn"><img src="{{ '/images/brands/linkedin-in.svg' | relative_url }}" width="20" height="20" alt=""></a></li>
+  <li><a href="{{ site.author.researchgate }}" aria-label="ResearchGate" title="ResearchGate"><img src="{{ '/images/brands/researchgate.svg' | relative_url }}" width="20" height="20" alt=""></a></li>
+  <li><a href="https://x.com/{{ site.author.twitter }}" aria-label="X" title="X"><img src="{{ '/images/brands/x-twitter.svg' | relative_url }}" width="19" height="19" alt=""></a></li>
+</ul>
+<script src="{{ '/assets/copy-email.js' | relative_url }}" defer></script>

@@ -28,3 +28,6 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+
+# Jekyll 3.9's LogAdapter requires the pre-fiber-local Logger implementation.
+gem "logger", "1.5.3"
