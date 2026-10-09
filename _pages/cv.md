@@ -15,7 +15,7 @@ redirect_from:
     <p class="cv-date">2024 — 2026</p>
     <h3>Postdoctoral Fellow</h3>
     <p>Center of Excellence for Generative AI, KAUST</p>
-    <p>Working with Prof. Jürgen Schmidhuber · Saudi Arabia</p>
+    <p>Working with Prof. Jürgen Schmidhuber</p>
   </li></ul>
 </section>
 <section class="cv-section" aria-labelledby="education">
