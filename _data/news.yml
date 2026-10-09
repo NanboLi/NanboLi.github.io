@@ -1,6 +1,6 @@
 # Dates use the first day of the month for sorting; only month/year is displayed.
 - date: "2026-07-01"
-  text: '[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104), is released as a preprint on arXiv.'
+  text: '[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) released as a preprint on arXiv.'
 - date: "2026-01-01"
   text: '[SlotSPE](https://arxiv.org/abs/2512.01116), our work on structural prognostic event modelling, was accepted at **ICLR 2026**.'
 - date: "2026-01-01"
