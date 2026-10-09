@@ -29,8 +29,8 @@ redirect_from:
 <section class="cv-section" aria-labelledby="experience">
   <h2 id="experience">Research experience</h2>
   <ul class="cv-entries">
-    <li><p class="cv-date">Fall 2021</p><h3>Research Intern · Meta (Facebook) Reality Labs</h3><p>Zurich, Switzerland (Remotely from Edinburgh during Covid)</p></li>
-    <li><p class="cv-date">Summer 2021</p><h3>Research Intern · NEC Laboratories America</h3><p>San Jose, California, USA (Remotely from Edinburgh during Covid)</p></li>
+    <li><p class="cv-date">Fall 2021</p><h3>Research Intern · Meta (Facebook) Reality Labs</h3><p>Zurich, Switzerland</p></li>
+    <li><p class="cv-date">Summer 2021</p><h3>Research Intern · NEC Laboratories America</h3><p>San Jose, California, USA</p></li>
   </ul>
 </section>
 <section class="cv-section" aria-labelledby="awards">
