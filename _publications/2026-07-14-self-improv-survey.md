@@ -8,10 +8,20 @@ author_list: "Zhe Ren, Yimeng Chen, Dandan Guo, Guowei Rong, Tonghui Li, R. B. X
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2607.13104"
 projecturl: "https://selfimproving-agent.github.io/"
-summary: "A system-level survey of agent self-improvement through updates to foundation models, prompts, memory, tools, and control logic."
-excerpt: "A system-level survey of agent self-improvement through updates to foundation models, prompts, memory, tools, and control logic."
+summary: "A system-level survey of self-improving agents, unifying updates to foundation models and to prompts, memory, tools, and executable control logic."
+excerpt: "A system-level survey of self-improving agents, unifying updates to foundation models and to prompts, memory, tools, and executable control logic."
 ---
 
-This survey examines how autonomous agents turn experience into lasting improvements. It brings together methods that update the underlying foundation model and methods that modify the surrounding prompts, memory, tools, and control logic. The review organizes approaches by their update targets and learning signals, and covers applications, evaluation, and open challenges.
+An agent can improve by changing its underlying model, but also by changing how that model is used. This survey brings these routes into a common framework: an agent consists of a foundation model and a surrounding scaffold, and self-improvement updates either component using signals collected or generated during its operation.
 
-Read the [paper](https://arxiv.org/abs/2607.13104), explore the [project page](https://selfimproving-agent.github.io/), or browse the accompanying [curated reading list](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents).
+## A map of agent self-improvement
+
+{% include publication-figure.html src="/assets/publications/self-improvement-survey.png" width="3939" height="2338" alt="Survey taxonomy dividing self-improvement into foundation-model updates and scaffolding updates to prompts, tools, memory, and full agent designs." caption="The survey's organizing framework connects model-level and scaffold-level improvements with their learning signals and application domains." source="https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents/blob/main/assets/fig-si-main-001.png" %}
+
+## What the survey covers
+
+On the model side, we organize learning signals into intrinsic demonstrations, intrinsic feedback, and experience from interaction. On the scaffold side, we examine changes to prompts, memory, tools, and the executable logic coordinating the agent. This perspective connects mechanisms often studied separately and clarifies both what changes and what drives the change.
+
+The survey also reviews applications, evaluation practices, benchmarks, and open problems, providing a system-level guide to designing and assessing self-improving agents.
+
+Explore the [survey hub](https://selfimproving-agent.github.io/) and the accompanying [curated reading list](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents).

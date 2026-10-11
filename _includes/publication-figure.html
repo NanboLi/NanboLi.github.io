@@ -1,0 +1,9 @@
+<figure class="publication-figure{% if include.compact %} publication-figure--compact{% endif %}">
+  <a class="publication-figure__image" href="{{ include.src | relative_url }}" aria-label="View full-size image: {{ include.alt | escape }}">
+    <img src="{{ include.src | relative_url }}" alt="{{ include.alt | escape }}" width="{{ include.width }}" height="{{ include.height }}" loading="lazy" decoding="async">
+  </a>
+  <figcaption>
+    {{ include.caption }}
+    <span class="publication-figure__links"><a href="{{ include.src | relative_url }}">View full size</a>{% if include.pdf %} · <a href="{{ include.pdf | relative_url }}">Original PDF</a>{% elsif include.source %} · <a href="{{ include.source }}">Source</a>{% endif %}</span>
+  </figcaption>
+</figure>
