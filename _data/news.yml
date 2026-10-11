@@ -1,6 +1,6 @@
 # Dates use the first day of the month for sorting; only month/year is displayed.
 - date: "2026-09-01"
-  text: '[NoteBank: History Replays Itself](/publication/2026-notebank) was released. Check our exciting results!'
+  text: '[NoteBank: History Replays Itself](https://nanboli.github.io/notebank-page/) was released. Check our exciting results!'
 - date: "2026-07-01"
   text: '[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) was released as a preprint on arXiv.'
 - date: "2026-01-01"
