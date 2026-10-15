@@ -1,6 +1,6 @@
 # Dates use the first day of the month for sorting; only month/year is displayed.
 - date: "2026-09-01"
-  text: '[NoteBank](https://nanboli.github.io/notebank-page/) was released. Million-token memory, almost for free!'
+  text: 'Excited to release [NoteBank](https://nanboli.github.io/notebank-page/), our new work on LLM long-context capability: unlocking million-token memory, almost for free!'
 - date: "2026-07-01"
   text: '[Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) was released as a preprint on arXiv.'
 - date: "2026-01-01"
